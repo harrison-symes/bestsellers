@@ -1,0 +1,25 @@
+img.book  {
+  height: 80px;
+
+}
+img.book-large {
+  height: 300px;
+}
+div.row {
+  display: block;
+  border-style: double;
+  border-color: blue;
+
+}
+div.cell {
+  display: inline;
+  color: blue;
+  font-weight: bold;
+
+}
+div.table{
+  border-style: solid;
+  border-width: 3px;
+  border-color: red;
+  width: 300px;
+}
