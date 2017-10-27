@@ -20,6 +20,6 @@ div.cell {
 div.table{
   border-style: solid;
   border-width: 3px;
-  border-color: red;
+  border-color: gray;
   width: 300px;
 }
